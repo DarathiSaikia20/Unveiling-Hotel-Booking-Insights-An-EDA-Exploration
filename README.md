@@ -32,7 +32,7 @@ This project comprises a Google Colaboratory notebook and a dataset in CSV forma
 
 ********************************************************************************************************************************************************************
 
-## Dataset Contents
+## 🏨 Hotel Booking Dataset Contents 🛏️
 
 - The dataset comprises a single CSV file containing information regarding hotel bookings.
 - The key variables includes:
