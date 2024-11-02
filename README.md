@@ -10,7 +10,7 @@
 - **Project-Description**
 - **Project Files Description**
 - **Dataset Contents**
-- **Variables Details Of Dataset**
+- **Variable Details Of Dataset**
 - **Problem Statements**
 - **Technologies Used**
 - **Steps Involved**
@@ -35,6 +35,7 @@ This project comprises a Google Colaboratory notebook and a dataset in CSV forma
 ## 🏨 Hotel Booking Dataset Contents 🛏️
 
 - The dataset comprises a single CSV file containing information regarding hotel bookings.
+  ## 📝 Variable Details
 - The key variables includes:
 
   
