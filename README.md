@@ -1,4 +1,4 @@
-<h1 align="center"> Unveiling Hotel Booking Insights: An EDA Exploration </h1>
+# 🏨 Unveiling Hotel Booking Insights: An EDA Exploration 
 
 <p align="center"> 
 <img src="GIF/google play.gif" alt="Animated gif" height="282px">
